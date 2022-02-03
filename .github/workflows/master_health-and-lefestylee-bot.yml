@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'Health-and-lefestylee-bot'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C96FF0017A1841DE83F1FB3C9FF6003A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_343064EFAFB84FABB47605B663F8470D }}
           package: .
