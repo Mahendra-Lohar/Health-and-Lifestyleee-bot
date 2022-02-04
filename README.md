@@ -1,6 +1,4 @@
-# video of my project how I created
 
-https://user-images.githubusercontent.com/91696273/152489131-f010a49a-d403-4570-9798-fbed2558e604.mp4
 
 
 # Urls of my azure project 
