@@ -1,3 +1,14 @@
+# Urls of my azure project 
+bot url
+https://portal.azure.com/#@mnlohar18outlook.onmicrosoft.com/resource/subscriptions/6b4e5136-3061-4601-9029-9b53cc4184bd/resourceGroups/Health-and-lifestyle-chatbot/providers/Microsoft.BotService/botServices/health-and-lifestylechatbot-bot/overview
+knowledge base url
+https://www.qnamaker.ai/Edit/KnowledgeBase?kbId=b75d5e35-c049-4129-be0f-4447bd61a5fb
+Url of the static website of the working
+https://healthandlifestylebot.z13.web.core.windows.net/
+
+
+
+
 # QnA Maker
 
 Bot Framework v4 QnA Maker bot sample. This sample shows how to integrate Multiturn and Active learning in a QnA Maker bot with ASP.Net Core-2. Click [here][72] to know more about using follow-up prompts to create multiturn conversation. To know more about how to enable and use active learning, click [here][71].
