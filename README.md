@@ -5,6 +5,11 @@ Bot Framework v4 QnA Maker bot sample. This sample shows how to integrate Multit
 This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a bot that uses the [QnA Maker Cognitive AI](https://www.qnamaker.ai) service.
 
 The [QnA Maker Service](https://www.qnamaker.ai) enables you to build, train and publish a simple question and answer bot based on FAQ URLs, structured documents or editorial content in minutes. In this sample, we demonstrate how to use the QnA Maker service to answer questions based on a FAQ text file used as input.
+this are few screenshot of my qnamaker
+![image](https://user-images.githubusercontent.com/91696273/152478277-81895e96-89aa-42d8-aa40-9af20c762d28.png)
+![image](https://user-images.githubusercontent.com/91696273/152478325-b3921db9-8d80-4b1f-ab7d-015fda100e4e.png)
+
+
 
 ## Concepts introduced in this sample
 The [QnA Maker Service][19] enables you to build, train and publish a simple question and answer bot based on FAQ URLs, structured documents or editorial content in minutes.
