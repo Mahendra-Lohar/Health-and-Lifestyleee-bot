@@ -8,6 +8,14 @@ https://healthandlifestylebot.z13.web.core.windows.net/
 
 
 
+# this are few screenshot of my bot
+![image](https://user-images.githubusercontent.com/91696273/152478530-d454d3fc-1dd6-4f06-8427-e6b32cef7815.png)
+![image](https://user-images.githubusercontent.com/91696273/152478544-692d6c14-d96d-4809-ad82-095b0adbe389.png)
+
+![image](https://user-images.githubusercontent.com/91696273/152478554-31d4fb95-8b05-4f48-af57-4ccc54257d96.png)
+
+
+
 
 # QnA Maker
 
@@ -189,12 +197,6 @@ To learn more about deploying a bot to Azure, see [Deploy your bot to Azure][40]
 [71]: https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/improve-knowledge-base
 [72]: https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/multiturn-conversation
 
-
-this are few screenshot of my bot
-![image](https://user-images.githubusercontent.com/91696273/152478530-d454d3fc-1dd6-4f06-8427-e6b32cef7815.png)
-![image](https://user-images.githubusercontent.com/91696273/152478544-692d6c14-d96d-4809-ad82-095b0adbe389.png)
-
-![image](https://user-images.githubusercontent.com/91696273/152478554-31d4fb95-8b05-4f48-af57-4ccc54257d96.png)
 
 
 
